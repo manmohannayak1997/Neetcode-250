@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
+## String
+|  |
+| ------- |
+| [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
 <!---LeetCode Topics End-->
