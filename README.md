@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
 | [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
 ## Prefix Sum
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
