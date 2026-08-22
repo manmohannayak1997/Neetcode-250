@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
+## Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
