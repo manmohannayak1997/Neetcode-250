@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0151-reverse-words-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
 | [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
 ## Prefix Sum
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
