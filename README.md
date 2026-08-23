@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0062-unique-paths) |
+| [0413-arithmetic-slices](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0413-arithmetic-slices) |
 ## Combinatorics
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0413-arithmetic-slices) |
 | [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
 ## String
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0342-power-of-four) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
