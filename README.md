@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/manmohannayak1997/Neetcode-250/tree/master/1046-last-stone-weight) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
