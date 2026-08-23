@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0814-binary-tree-pruning](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0814-binary-tree-pruning) |
 | [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0814-binary-tree-pruning](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0814-binary-tree-pruning) |
 | [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0814-binary-tree-pruning](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0814-binary-tree-pruning) |
 | [0993-cousins-in-binary-tree](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0993-cousins-in-binary-tree) |
 ## Backtracking
 |  |
