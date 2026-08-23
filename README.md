@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0062-unique-paths) |
+| [0342-power-of-four](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0342-power-of-four) |
 | [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0151-reverse-words-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
