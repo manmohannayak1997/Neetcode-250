@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0413-arithmetic-slices) |
 | [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
+| [1046-last-stone-weight](https://github.com/manmohannayak1997/Neetcode-250/tree/master/1046-last-stone-weight) |
 ## String
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0413-arithmetic-slices) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/manmohannayak1997/Neetcode-250/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
