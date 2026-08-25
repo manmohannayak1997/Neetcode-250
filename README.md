@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0049-group-anagrams) |
 | [0413-arithmetic-slices](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0413-arithmetic-slices) |
 | [0454-4sum-ii](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0454-4sum-ii) |
 | [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0151-reverse-words-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
 | [0848-shifting-letters](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0848-shifting-letters) |
@@ -93,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0049-group-anagrams) |
 | [0454-4sum-ii](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0454-4sum-ii) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
