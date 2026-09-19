@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0049-group-anagrams) |
 | [0413-arithmetic-slices](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0413-arithmetic-slices) |
 | [0454-4sum-ii](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0454-4sum-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0047-permutations-ii) |
 | [0784-letter-case-permutation](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -100,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/manmohannayak1997/Neetcode-250/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
